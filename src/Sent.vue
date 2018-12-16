@@ -1,5 +1,5 @@
 <template>
-    <h1>Important</h1>
+    <h1>Sent</h1>
 </template>
 
 <script>
